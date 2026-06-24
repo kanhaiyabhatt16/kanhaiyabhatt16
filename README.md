@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=4000&pause=1000&color=E0AAFF&center=true&vCenter=true&width=900&lines=BCA+Student;DevOps+Learner;Linux+Enthusiast;Docker+%26+Jenkins;Building+Scalable+Applications" />
 </p>
-
+ 
 <div align="center">
   <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-10002B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-10002B?style=for-the-badge&logo=linkedin&logoColor=0077B5" /></a>
