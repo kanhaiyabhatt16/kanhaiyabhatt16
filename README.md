@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/kanz9528">
-    <img src="https://komarev.com/ghpvc/?username=Kanhaiya Bhatt&label=Profile%20Views&color=7B2CBF&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/kanhaiyabhatt16">
+    <img src="https://komarev.com/ghpvc/?username=kanhaiyabhatt16&label=Profile%20Views&color=7B2CBF&style=flat-square" alt="Profile views" />
   </a>
 </p>
 
